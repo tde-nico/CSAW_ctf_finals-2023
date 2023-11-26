@@ -1,0 +1,120 @@
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+1.603810890548638e-28
+-64.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+1.8048513878454153e-35
+-80.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+1.1850648642339812e-27
+-62.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+3.305700626760734e-37
+-84.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+1.603810890548638e-28
+-64.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+6.639677199580733e-36
+-81.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+7.984904245686979e-30
+-67.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+6.054601895401186e-39
+-88.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+8.315280276641321e-07
+-14.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+8.75651076269652e-27
+-60.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+6.639677199580733e-36
+-81.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+1.0806392777072785e-30
+-69.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+2.2603242979035746e-06
+-13.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+2.4426007377405277e-36
+-82.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+2.9374821117108028e-30
+-68.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+1.0806392777072785e-30
+-69.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+2.0611536181902037e-09
+-20.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+8.75651076269652e-27
+-60.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+8.315280276641321e-07
+-14.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+8.75651076269652e-27
+-60.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+3.305700626760734e-37
+-84.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+4.1399375473943306e-08
+-17.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+1.522997951276035e-08
+-18.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+8.75651076269652e-27
+-60.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+1.8048513878454153e-35
+-80.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+8.315280276641321e-07
+-14.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+2.9374821117108028e-30
+-68.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+7.281290178321645e-33
+-74.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+4.1399375473943306e-08
+-17.0
+[*] Closed connection to 172.31.88.52 port 3000
+[+] Opening connection to 172.31.88.52 on port 3000: Done
+8.194012623990515e-40
+-90.0
+[*] Closed connection to 172.31.88.52 port 3000
